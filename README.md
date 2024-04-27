@@ -8,11 +8,11 @@ It is my first data analysis project. I started this journey  to explore and  to
 
 Why did i build this project?
 
-To withness end to end data analysis project, i started to it. At the same time, i wanted to observe relationship between movie features like budget and gross. I took data set from https://www.kaggle.com/datasets/danielgrijalvas/movies and inspired from alexthedata analytics project(https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4)
+Because i wanted to withness end to end data analysis project. At the same time, i wanted to observe relationship between movie features like budget and gross. I took data set from https://www.kaggle.com/datasets/danielgrijalvas/movies.
 
 
 What problem did you solve?
-i made solution for  correlation problem between categorical and numerical data.
+i made solution for  correlation problem between categorical and numerical data.To solve relation between categorical values,chi square is used.
 
 
 What did i learn?
