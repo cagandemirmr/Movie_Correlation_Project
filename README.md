@@ -16,6 +16,7 @@ i made solution for  correlation problem between categorical and numerical data.
 
 
 What did i learn?
+
 In this project personally i learned lots of things.First of all, i learned that not all outliers should be supressed or excluded from data set. Also,everytime we should not fill missing falues with values or delete them.In addition to that, Before deciding corelation method, i learned that i  need to make test on data.
 
 
