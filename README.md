@@ -3,7 +3,7 @@
 
 What is my motivation?
 
-It is my first data analysis project. I started this journey  to explore and  to show my python skills on data analysis .I took several several cources online and offline about statistics,python,data manipulation and Machine Learning.And somehow, i wanted to use this knowledge into data set to evaluate my situation in my data analysis project.In this process, i saw that i developed many skills and also saw that i need to improve myself in this journey as well.
+It is my first data analysis project. I started this journey  to explore and  to show my python skills on data analysis .I took several several cources online and offline about statistics,python,data manipulation and Machine Learning.And somehow, i wanted to use this knowledge into dataset to evaluate my situation in my data analysis project.In this process, i saw that i developed many skills and also  that i need to improve myself in this journey as well.
 
 
 Why did i build this project?
@@ -12,8 +12,11 @@ To withness end to end data analysis project, i started to it. At the same time,
 
 
 What problem did you solve?
+i made solution for  correlation problem between categorical and numerical data.
 
-In this project personally i learned lots of things.First of all, i learned that not all outliers should be supressed or excluded from data set. Also,everytime we should not fill missing vfalues with values or delete them.In addition to that, Before deciding corelation method, i learned that i  need to make test on data.
+
+What did i learn?
+In this project personally i learned lots of things.First of all, i learned that not all outliers should be supressed or excluded from data set. Also,everytime we should not fill missing falues with values or delete them.In addition to that, Before deciding corelation method, i learned that i  need to make test on data.
 
 
 What makes my project stand out?
